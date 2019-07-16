@@ -27,6 +27,9 @@ function pressIt() {
 
 $(document).ready(function(){
 
-// call functions here
+submitIt()
+getIt()
+frameIt()
+submitIt()
 
 });
